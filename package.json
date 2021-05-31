@@ -1,0 +1,22 @@
+{
+  "name": "doonex-chain",
+  "version": "1.0.1",
+  "description": "Doonex Blockchain Technology.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atcoolart/doonex-chain.git"
+  },
+  "author": "doonex",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atcoolart/doonex-chain/issues"
+  },
+  "homepage": "https://github.com/atcoolart/doonex-chain#readme",
+  "dependencies": {
+    "crypto-js": "^4.0.0"
+  }
+}
